@@ -5,10 +5,10 @@ Maintainer: Tan
 Installed-Size: 184
 Depends: firmware (>= 15.0)
 Filename: debs/com.ngoctan.liquidos_0.0.1_iphoneos-arm64.deb
-Size: 5562
-MD5sum: 0d9bd9c55e19798d47996da31ca0a873
-SHA1: 3fe13b73e8a54365a3812d94432889cea8ae6a06
-SHA256: df9dc1ef9deea5d4618ecac6aff6d7960ef7a4fb449651f9ac42f01766b144ff
+Size: 5574
+MD5sum: d3a6f70a0e884f582c71659793825915
+SHA1: 73ce72c6d24deea081a4e887339aae04b29005cd
+SHA256: 17cc3467b379e0311d23f82e18373f75ca76b20f16547815cf6ee6539c8a274a
 Section: Tweaks
 Description: LiquidOS tweak
 Author: Tan
@@ -75,22 +75,6 @@ SHA1: 946f7df125af3b350673a372cbf207509ee1aefc
 SHA256: a5cbbfeffe9ebddd379577f2186d3d4e0a34450b9af7c7832dd036ddda2ccb28
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
-Author: Tan
-Name: LiquidOS
-
-Package: com.ngoctan.liquidos
-Version: 0.0.2
-Architecture: iphoneos-arm64
-Maintainer: Tan
-Installed-Size: 188
-Depends: firmware (>= 15.0)
-Filename: debs/com.ngoctan.liquidos_0.0.2_iphoneos-arm64.deb
-Size: 10326
-MD5sum: b9e6992307890db627d330a001ab27a5
-SHA1: eb67f1cca52b9ce95e0602907c79025a23dd8bb4
-SHA256: 4e22386fe45792f1032ec769285df1d048e26b26d07f7c0b488a4619fa90cecc
-Section: Tweaks
-Description: LiquidOS tweak
 Author: Tan
 Name: LiquidOS
 

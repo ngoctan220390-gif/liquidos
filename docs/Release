@@ -7,20 +7,20 @@ Architectures: iphoneos-arm64
 Components: main
 Description: LiquidOS Repository
 
-Date: Sun, 28 Jun 2026 13:57:53 +0000
+Date: Sun, 28 Jun 2026 14:12:06 +0000
 MD5Sum:
- 07711f6b5e16442d904ad8672d4a9b20             2809 Packages
- 0b618b846282d86af130cb5eff1740ea              915 Packages.gz
- 92ffbe6394aef5baa944a34b8524abe6              196 Release
+ 6f476c51c9c6225fa0585d06d4dfa448             2365 Packages
+ 2215511c920c81df64b8c800f369e59e              810 Packages.gz
+ c30fc1c58f03ae8a696eafab29098181              196 Release
 SHA1:
- 02ec75099de6c52b87469b9e7b9ac3e0c2894c12             2809 Packages
- 1c2767fda94c826e9ffb42f83730ecad2e91f5bd              915 Packages.gz
- 3e728f021384521d768dc5803ffe72f44e90bac3              196 Release
+ 45044ff6b8977796ebb66b5bfa5fac0a18c1496a             2365 Packages
+ 531e6ffa96249c6b4e10467e1265489c205598a1              810 Packages.gz
+ d37437beb91f9f53b80d50994f743ce62bcc80eb              196 Release
 SHA256:
- 16695378a460e98dfce1e5429d7c95c1bdbb2c8ff707d726f1ec6e4fbcf62f6d             2809 Packages
- c15cf3475b44e5d6160745525c5726d8ef6c9a5d4ec4ec180e4dd702f9e2df76              915 Packages.gz
- 88f95f4e3ad24ea26b98c496276381ea491de2872cac1045c55ea19bed445351              196 Release
+ d569dad75961fd90571fb0d638de6f5e08d25ee26fbd84033f92b95936d96fa5             2365 Packages
+ e1c02abac80befa894f9763c0b3fea9d1d4e64ab91c8dcf830dd115aca1a9bce              810 Packages.gz
+ 7be667596714c8b2ae235cb84272af72f13d9bde63973f54f5336b9a7fff9775              196 Release
 SHA512:
- 283eff7bf5e51deb3bdfaaf8169e25b4ead98dfebbfdc570d20b984600a25735f80f5c600e4b5642e379dbe5854b0c1d11708f34cf99944e7f408a92823066e1             2809 Packages
- 119901c30f012e24d3fdde9cb8025a6191cfde9a2c311c2c60282df03f048ce04d68f6268a891f503fd5de117dfd5d4d72af3bbc4461ee00679b76d38a77388a              915 Packages.gz
- 54cc80c73f37db3619363f9724d8fa6799260a563e09b7983d4cce73eedb38cabe0e124958d218e8ceb57b23733082aef4975daec6447933aa8cb2d54243b171              196 Release
+ 10fcdafe89b5a82977cf7f85dbdc7bddd8a0c97b23a5dfaac10c9e59b7f3db16247f954be660c5734b8b2780803e0cc57bc2520d0e35d21ad316e5d0f2c5588b             2365 Packages
+ 7e939944013d226fcd7f5fc04121dd285feb4d197d5a7a08cf49f85fc7878b63e77aa024cc11cc43f851567406c3063bf5043dc048a875f79627eca05bb4d19a              810 Packages.gz
+ b27fc5df8223dadb42edde8ee12cf706faf7e1a1f1884f23ce3a93c1df7171f1d6d08c61d01a6e5ce76af56940b71f0b359a7e8a28832f84b16729c158598ada              196 Release
