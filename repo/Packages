@@ -1,0 +1,16 @@
+Package: com.ngoctan.liquidos
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tan
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.ngoctan.liquidos_0.0.1_iphoneos-arm.deb
+Size: 2198
+MD5sum: d9362acff8459d8e2aeda9663a717593
+SHA1: 219f77d0b3bb8e59dbe9d329cfbaf1282ad776dc
+SHA256: b31f0cbf0c2f6369a7fb093fbe15f5ecfc9007146e030ec0ab4b5a5ac47d7d35
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Tan
+Name: LiquidOS
+

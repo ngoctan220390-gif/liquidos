@@ -1,0 +1,9 @@
+Package: com.ngoctan.liquidos
+Name: LiquidOS
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Tan
+Author: Tan
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
