@@ -5,10 +5,10 @@ Maintainer: Tan
 Installed-Size: 184
 Depends: firmware (>= 15.0)
 Filename: debs/com.ngoctan.liquidos_0.0.1_iphoneos-arm64.deb
-Size: 5564
-MD5sum: ae4820d7f19afd0abedf20a412f627dc
-SHA1: a25268779437b790d616af8a4c017ef3fad2e585
-SHA256: 259db92bd724c08fb2ff65501dc42ac3e383298b290c18797e7e5765f7083fcc
+Size: 6302
+MD5sum: 797348ed120f825ab7950048509f98b1
+SHA1: 3559699244aac07012446b7dd9ec11b9a6be5fef
+SHA256: bf52ca06f61505d94abdc5b2fef76606c3d062f7ec0535ae1bafe48bd8c224ca
 Section: Tweaks
 Description: LiquidOS tweak
 Author: Tan
